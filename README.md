@@ -13,6 +13,17 @@ npm run dev
 
 La app quedara disponible en la URL que entregue Vite (normalmente `http://localhost:5173`).
 
+## Deploy en GitHub Pages
+
+El proyecto incluye el workflow [`deploy.yml`](/Users/felipelorca/Desktop/Proyectos/web_servicios_360/.github/workflows/deploy.yml) para publicar el contenido de `dist/` en GitHub Pages usando GitHub Actions.
+
+Configuracion esperada en GitHub:
+
+- En `Settings > Pages`, usar `Build and deployment: GitHub Actions`.
+- Hacer push a la rama `main`.
+
+La configuracion de Vite usa `base: './'` para que los assets funcionen correctamente cuando el sitio se publica dentro de la ruta del repositorio.
+
 
 ## Donde editar contenido de negocio
 
