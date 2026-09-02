@@ -15,7 +15,7 @@ La app quedara disponible en la URL que entregue Vite (normalmente `http://local
 
 ## Deploy en GitHub Pages
 
-El proyecto incluye el workflow [`deploy.yml`](/Users/felipelorca/Desktop/Proyectos/web_servicios_360/.github/workflows/deploy.yml) para publicar el contenido de `dist/` en GitHub Pages usando GitHub Actions.
+El proyecto incluye el workflow [`deploy.yml`](/Users/felipelorca/Desktop/Proyectos/PAUSADOS/web_servicios_360/.github/workflows/deploy.yml) para publicar el contenido de `dist/` en GitHub Pages usando GitHub Actions.
 
 Configuracion esperada en GitHub:
 
