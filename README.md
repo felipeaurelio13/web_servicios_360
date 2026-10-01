@@ -1,3 +1,5 @@
+> **Estado — PAUSADO (2026-10-01).** El catálogo se conserva como referencia/demostración y no es un frente de desarrollo activo.
+
 # Web Servicios 360
 
 Catalogo interactivo de servicios EVoting con una metafora visual de sistema planetario.
